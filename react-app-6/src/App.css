@@ -1,8 +1,17 @@
 .App {
   text-align: left;
   padding: 5px 20px;
+  background-color: #FAF3F4;
 }
-
+.App h1 {
+  color: #61dafb;
+  text-align: center;
+  padding-right: 13px;
+}
+.app__head {
+  display:flex;
+  flex-direction:row;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
